@@ -1,0 +1,9 @@
+streamlit
+crewai
+crewai[tools]
+langchain-google-genai
+yfinance
+fpdf2
+pandas
+matplotlib
+python-dotenv
